@@ -1,4 +1,3 @@
-
 **👋 Hi, I’m Nataliia**
 
 👀 I’m interested in Java, Spring Framework
