@@ -2,4 +2,4 @@
 
 👀 I’m interested in Java, Spring Framework
 
-📫 How to reach me @horbnatali (telegram)
+📫 How to reach me @horbnataliia (telegram)
